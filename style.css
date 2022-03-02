@@ -54,7 +54,7 @@ h1{
     color: white;
 }
 
-.parallax-1,.parallax-2,.parallax-3,.parallax-4{
+.parallax-1,.parallax-2,.parallax-3,.parallax-4,.parallax-5{
     height: 100%;
     position: relative;
     background-attachment: fixed;
@@ -80,13 +80,8 @@ h1{
     padding: 0;
 }
 .parallax-5{
-    height: 100%;
-    position: relative;
-    background-attachment: scroll;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url(img/bg5.jpg);
+
+    background-image: url(img/bg2.jpeg);
     padding: 0;
 
 }
